@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 int main()
 {
-    int favNum=90;
-    char myChar='u';
-    printf("My fav %c is %f",myChar,favNum);
-
+    printf("%f", ceil(50.89675) );
+    printf("%f", floor(50.89675) );
     return 0;
 }
