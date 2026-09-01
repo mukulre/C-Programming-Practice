@@ -4,10 +4,10 @@
 
 int main()
 {
-    /*
-    printf("%f", ceil(50.89675) );
-    printf("%f", floor(50.89675) );
-    */
+    const int FAV_NUM = 5;
+    printf("%d\n",num);
+    num=10;
+    printf("%d", num);
 
     return 0;
 }
