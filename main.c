@@ -3,9 +3,10 @@
 
 int main()
 {
-    char characterName[] = "Mukul";
-    int characterAge = 30;
-    printf("There once was a man named %s\n", characterName);
-    printf("He is %d years old\n",characterAge);
+    int age = 40;
+    double gpa = 4.6;
+    char grade = 'A';
+    char phrase[] = "Be Tougher";
+
     return 0;
 }
